@@ -4,6 +4,326 @@ PRODID:-//AIS Events Sync//qsinet.com//
 X-WR-CALNAME:AIS Calendar Events
 X-WR-TIMEZONE:Asia/Almaty
 BEGIN:VEVENT
+SUMMARY:Speech and Debate- Location TBD
+DTSTART:20251113T190000Z
+DTEND:20251113T190000Z
+UID:ais-sp-115@qsinet.com
+DESCRIPTION:SP_ID=115
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elementary Stuco AppearalSell
+DTSTART:20251113T190000Z
+DTEND:20251120T190000Z
+UID:ais-sp-130@qsinet.com
+DESCRIPTION:selling winter apperal for Elementary Stuco\n\nSP_ID=130
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Science Fair
+DTSTART:20251117T190000Z
+DTEND:20251117T190000Z
+UID:ais-sp-113@qsinet.com
+DESCRIPTION:MS/Secondary Science Fair. All 13y.o.s will be presenting\, as
+  well as a bunch of Secondary Students (all students in Science Applicatio
+ ns and Environmental Science\, as well as volunteers from other classes). 
+ The entire school will be invited to stop by and see the presentations\, a
+ nd we will be inviting parents of students presenting as well. This event 
+ should probably be reviewed by all 3 admins\, but there was no way to choo
+ se that.\n\nSP_ID=113
+LOCATION:Big Gym. 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUN conference
+DTSTART:20251120T190000Z
+DTEND:20251121T190000Z
+UID:ais-sp-129@qsinet.com
+DESCRIPTION:MUN conference.  We expect about 60 delegates (our students\, 
+ Tamos\, Tien shan\, NIS\, Heileyburry\, and KIS).  \n\nSP_ID=129
+LOCATION:Library\, Birch room\, skybox
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSG Gale
+DTSTART:20251121T190000Z
+DTEND:20251121T190000Z
+UID:ais-sp-114@qsinet.com
+DESCRIPTION:SP_ID=114
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Concerts
+DTSTART:20251130T190000Z
+DTEND:20251204T190000Z
+UID:ais-sp-41@qsinet.com
+DESCRIPTION:SP_ID=41
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tri-M Post-Concert Movie Night
+DTSTART:20251203T190000Z
+DTEND:20251203T190000Z
+UID:ais-sp-142@qsinet.com
+DESCRIPTION:In the birch room after school 4:30-6:30\, we'll watch a movie
+  and clean up before Friday. To celebrate finishing the concerts.\n\nSP_ID
+ =142
+LOCATION:Birch Room (already booked for music)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAT Testing
+DTSTART:20251205T190000Z
+DTEND:20251205T190000Z
+UID:ais-sp-35@qsinet.com
+DESCRIPTION:SP_ID=35
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vex Robotics Tournament
+DTSTART:20251205T190000Z
+DTEND:20251206T190000Z
+UID:ais-sp-127@qsinet.com
+DESCRIPTION:Vex Robotics Tournament hosted here at our school\n\nSP_ID=127
+LOCATION:Big Gym
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chocolate Sale for Stop the Traffik Fund Raise
+DTSTART:20251207T190000Z
+DTEND:20251211T190000Z
+UID:ais-sp-136@qsinet.com
+DESCRIPTION:Members of the FundCo would like to sell chocolate during the 
+ MS and Sec break to raise money to support the Stop the Traffik.\n\nSP_ID=
+ 136
+LOCATION:Snack Shack Area
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bailey Club Bake Sale
+DTSTART:20251207T190000Z
+DTEND:20251207T190000Z
+UID:ais-sp-140@qsinet.com
+DESCRIPTION:A Christmas themed bake sale to raise money for the creation o
+ f an app that will assist the Bailey Club in helping restore lost pets to 
+ their owners. The price range will be between 500-1500 KZT\, cash only\n\n
+ SP_ID=140
+LOCATION:Snack Shack
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kazakhstan Independence Day Celebration
+DTSTART:20251208T190000Z
+DTEND:20251208T190000Z
+UID:ais-sp-131@qsinet.com
+DESCRIPTION: We will host 2 team games \n1st - B&C periods \n2nd -D&E peri
+ ods with the participation of secondary school students (from secondary 1 
+ to secondary 4 inclusive) studying the History of Kazakhstan.  \n\nSP_ID=1
+ 31
+LOCATION:Birch Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elementary Assembly
+DTSTART:20251209T190000Z
+DTEND:20251209T190000Z
+UID:ais-sp-134@qsinet.com
+DESCRIPTION:SO Assembly\n\nSP_ID=134
+LOCATION:Small Gym
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHS Bake Sale
+DTSTART:20251209T190000Z
+DTEND:20251209T190000Z
+UID:ais-sp-139@qsinet.com
+DESCRIPTION:Winter Bake sale to raise money for NHS.\n\nSP_ID=139
+LOCATION:Snack Shack
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quintile 2 Performance
+DTSTART:20251209T190000Z
+DTEND:20251209T190000Z
+UID:ais-sp-53@qsinet.com
+DESCRIPTION:SP_ID=53
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHS Induction Ceremony
+DTSTART:20251209T190000Z
+DTEND:20251209T190000Z
+UID:ais-sp-143@qsinet.com
+DESCRIPTION:NHS Induction Ceremony\n\nSP_ID=143
+LOCATION:Big Gym
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music Big Buddy Day No. 2
+DTSTART:20251210T190000Z
+DTEND:20251210T190000Z
+UID:ais-sp-135@qsinet.com
+DESCRIPTION:The 2nd Music Big Buddy Day! 3:30 PM - 5:00 PM. 10 Year Olds c
+ ome learn a song from their Secondary Bid Buddies! Sign-ups are through pa
+ rent email like last time.\n\nSP_ID=135
+LOCATION:Music Annex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phone Tree
+DTSTART:20251210T190000Z
+DTEND:20251210T190000Z
+UID:ais-sp-72@qsinet.com
+DESCRIPTION:After School Day\n\nSP_ID=72
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACT Testing
+DTSTART:20251212T190000Z
+DTEND:20251212T190000Z
+UID:ais-sp-47@qsinet.com
+DESCRIPTION:SP_ID=47
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Break
+DTSTART:20251214T190000Z
+DTEND:20260106T190000Z
+UID:ais-sp-22@qsinet.com
+DESCRIPTION:SP_ID=22
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YouthX Women Kickoff Movie Afternoon 
+DTSTART:20260108T190000Z
+DTEND:20260108T190000Z
+UID:ais-sp-144@qsinet.com
+DESCRIPTION:I couldn't click two options but the event is designed for You
+ thX Women members (12YO-S4) to spend some time getting to know each other 
+ and kick-off our events. The movie will be Hidden Figures. \n\nSP_ID=144
+LOCATION:Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter MAP Window
+DTSTART:20260111T190000Z
+DTEND:20260212T190000Z
+UID:ais-sp-100@qsinet.com
+DESCRIPTION:SP_ID=100
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lock-in
+DTSTART:20260115T190000Z
+DTEND:20260116T190000Z
+UID:ais-sp-103@qsinet.com
+DESCRIPTION:SP_ID=103
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speech & Debate Bake Sale
+DTSTART:20260115T190000Z
+DTEND:20260115T190000Z
+UID:ais-sp-137@qsinet.com
+DESCRIPTION:Speech & Debate Bake Sale\n\nSP_ID=137
+LOCATION:Spirit Shack
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lockdown Drill
+DTSTART:20260121T190000Z
+DTEND:20260121T190000Z
+UID:ais-sp-73@qsinet.com
+DESCRIPTION:9:00 am\n\nSP_ID=73
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speech and Debate Event- Location TBD
+DTSTART:20260122T190000Z
+DTEND:20260122T190000Z
+UID:ais-sp-116@qsinet.com
+DESCRIPTION:SP_ID=116
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Musical Performances
+DTSTART:20260128T190000Z
+DTEND:20260129T190000Z
+UID:ais-sp-51@qsinet.com
+DESCRIPTION:SP_ID=51
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QSI Virtual Career Fair
+DTSTART:20260128T190000Z
+DTEND:20260128T190000Z
+UID:ais-sp-149@qsinet.com
+DESCRIPTION:SP_ID=149
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music Big Buddy Day No. 3
+DTSTART:20260128T190000Z
+DTEND:20260128T190000Z
+UID:ais-sp-141@qsinet.com
+DESCRIPTION:Tri_m hosting it's 3rd music big buddy day\n\nSP_ID=141
+LOCATION:Annex\, 701
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middle School North Pole Night
+DTSTART:20260129T190000Z
+DTEND:20260129T190000Z
+UID:ais-sp-138@qsinet.com
+DESCRIPTION:Fun activities to bond middle school students run by Student C
+ ouncil\n\nSP_ID=138
+LOCATION:Birch Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NHS Valentine's Cookie Sale
+DTSTART:20260201T190000Z
+DTEND:20260212T190000Z
+UID:ais-sp-153@qsinet.com
+DESCRIPTION:NHS Valentine's Cookie Fundraiser for Almaty Impact Challenge\
+ n\nSP_ID=153
+LOCATION:Snack Shack
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Pep Rally
+DTSTART:20260202T190000Z
+DTEND:20260202T190000Z
+UID:ais-sp-107@qsinet.com
+DESCRIPTION:Basketball Pep Rally\n\nSP_ID=107
+LOCATION:Big Gym
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CABC- Varsity Division Only
+DTSTART:20260204T190000Z
+DTEND:20260206T190000Z
+UID:ais-sp-57@qsinet.com
+DESCRIPTION:SP_ID=57
+LOCATION:AIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elementary Assembly
+DTSTART:20260204T190000Z
+DTEND:20260204T190000Z
+UID:ais-sp-148@qsinet.com
+DESCRIPTION:Elementary SO Assembly\n\nSP_ID=148
+LOCATION:Small Gym
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACT Testing
+DTSTART:20260206T190000Z
+DTEND:20260206T190000Z
+UID:ais-sp-48@qsinet.com
+DESCRIPTION:ACT Testing\n\nSP_ID=48
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bailey Club Bake Sale
+DTSTART:20260208T190000Z
+DTEND:20260208T190000Z
+UID:ais-sp-154@qsinet.com
+DESCRIPTION:To continue raising funds to support their efforts to reunite 
+ lost pets with their families\n\nSP_ID=154
+LOCATION:Snack Shack
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3rd Activity Session (Winter/Spring)
+DTSTART:20260209T190000Z
+DTEND:20260416T190000Z
+UID:ais-sp-67@qsinet.com
+DESCRIPTION:SP_ID=67
+LOCATION:None
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:100th Day of School
 DTSTART:20260211T190000Z
 DTEND:20260211T190000Z
